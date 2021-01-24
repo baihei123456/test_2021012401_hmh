@@ -1,4 +1,4 @@
 # -*- coding: UTF-8 -*-
 while True:
-   print("胡明欢！！")
+   print("哈哈哈哈哈！！")
 
